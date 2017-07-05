@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: shnoble
 google_analytics: shnoble
-title: shnoble
+title: 노블의 개발이야기
 
 defaults:
   -
