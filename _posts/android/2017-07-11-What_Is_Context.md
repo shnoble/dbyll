@@ -2,9 +2,10 @@
 layout: post
 title: Context 란?
 categories: [android]
-tags: [android, context, android context]
-fullview: true
+tags: [android, context]
+fullview: false
 comments: true
+published: true
 ---
 # Context 란?
 
