@@ -96,7 +96,7 @@ ContextWrapper를 상속받아 구현한 Context이며 메소드로 Context를 �
 ContextProvider가 동일한 응용프로그램에 대해 호출시, 동일한 응용프로그램의 Singletone instances를 반환하게 된다. 
 하지만 별도의 프로세스에 있는 경우(서로다른 다른 앱), 프로바이더가 실행되는 응용프로그램의 instances가 반환된다. 
 
-![android-context](/_posts/android/images/20170711175421.png)
+![android-context](./images/20170711175421.png)
 
 ## Context 참조
 
