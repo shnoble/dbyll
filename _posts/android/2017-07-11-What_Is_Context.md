@@ -7,8 +7,6 @@ fullview: false
 comments: true
 published: true
 ---
-# Context 란?
-
 ## Context의 정의
 
 ```
