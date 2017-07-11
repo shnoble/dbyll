@@ -27,6 +27,16 @@ author:
   bio: Android, iOS, etc
   email_md5: 726351295ec82e145928582f595aa3aa
 
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
